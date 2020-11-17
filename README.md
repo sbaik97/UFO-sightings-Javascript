@@ -5,19 +5,19 @@ JavaScript and DOM Manipulation
 Applying javascript to data analytics and visualization. Specifically, the focus is on building a dynamic webpage, one that accepts user inputs and adjust accordingly. In more concrete terms we build a table to hold and neatly display the data we want to work with. 
 Then will add filters to the table to let users refine their search on more than one level.
 
-### SITUATION/TASK
+### Situation/Task
 Create a table to organize UFO data that is stored as a Javascript array, or list. This table should have the ability to filter data based on certain criteria, using the Javascript language.
 
-### APPROACH
+### Approach
 First, build a table using data stored in a JavaScript array, then create filters to make this table fully dynamic, that is the table should react to user input. Next, place the table into an HTML file for easy viewing. Finally, customized the webpage using Bootstrap, and equip the table with several fully functional filters that allows users to interact with the visualizations.
 
 * Challenge
 Additionally, include five filters in the table (Date, City, State, Country, Shape) using Javascript functions. Update and deploy  forEach (for loop) to loop through the filters and update them with user input. Update and populate the dynamic filters and table using JavaScript and HTML.
 
-### SOFTWARE/TOOLS
+### Software/Tools
 Javascript, Basic HTML, CSS, Chrome DevTools, Bootstrap
 
-### RESULTS
+### Rresults
 
 * Table Overview
 
@@ -27,7 +27,7 @@ Javascript, Basic HTML, CSS, Chrome DevTools, Bootstrap
 
 <img align="center" width="650" src="/static/images/UFO_filtered.PNG"><br/><br/>
 
-### THINGS LEARNED
+### Things Learn
 * The strengths and weaknesses of JavaScript “standard” and JavaScript version ES6+.
 * JavaScript syntax and ideal use cases.
 * Building and deploying JavaScript functions, including built-in functions.
@@ -37,6 +37,6 @@ Javascript, Basic HTML, CSS, Chrome DevTools, Bootstrap
 
 
 
-### RECOMMENDATION FOR FURTHER DEVELOPMENT 
+### Recomandation/Suggestions
 Sorting the value and adding a dropdowm option could help for takeing users to search their option.
 
